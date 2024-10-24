@@ -1,10 +1,7 @@
 ---
-title: 搭建第一条博客
+title: 用git＋typora搭建的博客
 tags: paper
 ---
-
-#### 1.first
-
-#### 2.second
+#### 第一条博客~
 ---
 #### end
